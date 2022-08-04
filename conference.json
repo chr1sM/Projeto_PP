@@ -1,0 +1,42 @@
+{
+    "conferencias": [
+        {
+            "name_session": "Informatica",
+            "year": 2022,
+            "start": 2022-06-05T10: 30,
+            "presenter_name": "Chris",
+            "room":Rooms{id=0, numSeats=50, name=Sala 1
+            },
+            "duration": 20,
+            "presenter_id": 0,
+            "field": "Tecnologia",
+            "state_presentation":NOT_PRESENTED,
+            "presenter_bio": "Top player",
+            "name_presentation": "Ciberseguranca3",
+            "name": "Teste",
+            "theme": "Hacking",
+            "end": 2022-06-05T11: 40,
+            "state":IN_PROGRESS,
+            "id": 0
+        },
+        {
+            "name_session": "Informatica",
+            "year": 2022,
+            "start": 2022-06-05T12: 30,
+            "presenter_name": "pedro",
+            "room":Rooms{id=0, numSeats=50, name=Sala 1
+            },
+            "duration": 20,
+            "presenter_id": 2,
+            "field": "Tecnologia",
+            "state_presentation":NOT_PRESENTED,
+            "presenter_bio": "Cranio",
+            "name_presentation": "Ciberseguranca2",
+            "name": "Teste",
+            "theme": "IoT",
+            "end": 2022-06-05T13: 00,
+            "state":IN_PROGRESS,
+            "id": 1
+        }
+    ]
+}
